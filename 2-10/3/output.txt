@@ -1,0 +1,4 @@
+Numbers of components: 2
+
+Component 1: [0, 1, 2]
+Component 2: [3, 4]
